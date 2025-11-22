@@ -4,8 +4,8 @@ using namespace std;
 int main() {
 
     char op;
-    int num1; 
-    int num2;
+    float num1; 
+    float num2;
     float result;
 
 
@@ -38,4 +38,5 @@ else{
 cout << "The Result will be :"<<result;
     
     return 0;
+
 }
